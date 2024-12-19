@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "contrast"
 
 locale: "en-US"
@@ -14,3 +14,11 @@ author:
   email            : "akash.gagrawal@gmail.com"
   linkedin         : "akash2016123/"
   github           : "aakash2016"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache

@@ -1,15 +1,8 @@
 theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "contrast"
 
 locale: "en-US"
-title: Aakash Agrawal
-title_separator: "-"
-description: "
-  Namaste 🙏🏼
-  Hi, I am Aakash
-  I am currently a graduate student pursuing a Master's in Data Science at UC San Diego. I completed my bachelor's from IIT Guwahati in 2020 with a major in Chemical Science and Technology.
-  With a rich background spanning over four years as a Data Scientist, I possess deep expertise in applying data science and technology to real-world issues. My professional journey has allowed me to inspire millions across India to adopt healthier lifestyles and improve their financial habits through data science. These experiences have not only deepened my practical understanding of the field but also highlighted the transformative power of data and computational sciences when effectively communicated and applied.
-  "
+title: "Home"
 baseurl: ""
 url: "https://aakash2016.github.io"
 
@@ -18,10 +11,6 @@ author:
   bio              : "MS Data Science UCSD"
   avatar           : "/assets/images/aakash.jpg"
   location         : "San Diego, California, US"
-  links:
-    - label: "akash.gagrawal@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:akash.gagrawal@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/aakash2016"
+  email            : "akash.gagrawal@gmail.com"
+  linkedin         : "https://www.linkedin.com/in/akash2016123/"
+  github           : "https://github.com/aakash2016"

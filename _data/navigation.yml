@@ -1,0 +1,14 @@
+main:
+  - title: "Education"
+    url: /education/
+  - title: "Experience"
+    url: /experience/
+  - title: "Publications"
+    url: /publications/
+  - title: "Blogs"
+    url: /page-archive/
+  - title: "Gallery"
+    url: /collection-archive/
+  - title: "External Link"
+    url: https://google.com
+    target: _blank

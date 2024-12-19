@@ -11,7 +11,7 @@ permalink: /education/
     <h2 style="color: #1e3a8a; font-size: 24px;">University of California San Diego</h2>
     <p><strong style="color: #1e3a8a; font-size: 16px;">MS: Data Science</strong></p>
     
-    <h4 style="color: black;">Courses (Fall'24):</h4>
+    <p style="color: black;"><strong>Courses</strong> (Fall'24) - <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a></p>
     <ul>
       <li>DSC 291 - Interpretable & Explainable ML (Prof. Berk Ustun)</li>
       <li>CSE 291 - Advanced Data-driven Text Mining (Prof. Jingbo Shang)</li>

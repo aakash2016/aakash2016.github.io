@@ -11,15 +11,16 @@ author_profile: true
   <div style="flex: 1; font-size: 14px; color: #212f3c;">
     <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">University of California San Diego</h2>
     <p><strong style="color: #1e3a8a; font-size: 16px;">MS: Data Science</strong></p>
-    
-    <p style="color: black;"><strong>Courses</strong> (Fall'24) - <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a></p>
+    <p style="color: black;">
+      <strong>Courses</strong> (Fall'24) - 
+      <!-- <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a> -->
+    </p>
     <ul>
-      <li>DSC 291 - Interpretable & Explainable ML</li>
-      <li>CSE 291 - Advanced Data-driven Text Mining</li>
-      <li>ECE 225A - Prob & Stats for Data Science</li>
-      <li>DSC 260 - Data Science Ethics & Society</li>
+      <li>DSC 291 - <a href="/reflections/dsc291a/" style="text-decoration: none; color: #3498db;">Interpretable & Explainable ML</a></li>
+      <li>CSE 291 - <a href="/reflections/cse291h/" style="text-decoration: none; color: #3498db;">Advanced Data-driven Text Mining</a></li>
+      <li>ECE 225A - <a href="/reflections/ece225a/" style="text-decoration: none; color: #3498db;">Prob & Stats for Data Science</a></li>
+      <li>DSC 260 - <a href="/reflections/dsc260/" style="text-decoration: none; color: #3498db;">Data Science Ethics & Society</a></li>
     </ul>
-    
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>
   </div>
@@ -32,13 +33,11 @@ author_profile: true
   <div style="flex: 1; font-size: 14px; color: #212f3c;">
     <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">Indian Institute of Technology (IIT) Guwahati</h2>
     <p><strong style="color: #1e3a8a; font-size: 16px;">BTech: Chemical Science and Technology</strong></p>
-    
     <h4 style="color: black; font-family: 'Times New Roman', Times, serif;">Notable Achievements:</h4>
     <ul>
       <li><strong style="color: black"> Department Rank 1</strong>, Chemical Science and Technology, Batch of 2016-2020.</li>
       <li style="text-align: justify;"><strong style="color: black"> Institute Merit Scholarship 2018-19</strong> - Recipient of the 'Institute Merit Scholarship' for being Rank 1 in the branch and securing the highest cumulative Semester Performance Index (SPI) during the academic year 2017-18.</li>
     </ul>
-    
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 9.18 / 10.0</p>
     <p style="font-size: 14px; color: #ec407a;">July 2016 - June 2020 </p>
   </div>

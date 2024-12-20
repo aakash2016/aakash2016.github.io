@@ -9,5 +9,7 @@ main:
     url: /blogs/
   - title: "Gallery"
     url: /gallery/
+  - title: "Resume"
+    url: "https://drive.google.com/file/d/1H3xGwgRaapwXHpkM25JAOO09Y1yk88Zb/view?usp=sharing"
   - title: "GRE VocabApp"
     url: "https://play.google.com/store/apps/details?id=com.grevocabapp&pcampaignid=web_share"

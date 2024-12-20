@@ -4,7 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- Publications Section -->
 <div style="display: flex; justify-content: center; align-items: center; margin-top: 10px; text-align: justify;">
     <ul style="font-size: 16px; color: #212f3c; line-height: 1.6; font-family: 'Times New Roman', Times, serif;">
         <li>

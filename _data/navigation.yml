@@ -6,6 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Blogs"
-    url: /page-archive/
+    url: /blogs/
   - title: "Gallery"
     url: /collection-archive/
+  - title: "GRE VocabApp"
+    url: "https://play.google.com/store/apps/details?id=com.grevocabapp&pcampaignid=web_share"

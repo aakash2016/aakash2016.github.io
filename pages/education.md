@@ -14,10 +14,10 @@ author_profile: true
     
     <p style="color: black;"><strong>Courses</strong> (Fall'24) - <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a></p>
     <ul>
-      <li>DSC 291 - Interpretable & Explainable ML (Prof. Berk Ustun)</li>
-      <li>CSE 291 - Advanced Data-driven Text Mining (Prof. Jingbo Shang)</li>
-      <li>ECE 225A - Prob & Stats for DS (Prof. Alon Orlitsky)</li>
-      <li>DSC 260 - Data Science Ethics (Prof. David Danks)</li>
+      <li>DSC 291 - Interpretable & Explainable ML</li>
+      <li>CSE 291 - Advanced Data-driven Text Mining</li>
+      <li>ECE 225A - Prob & Stats for Data Science</li>
+      <li>DSC 260 - Data Science Ethics & Society</li>
     </ul>
     
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>

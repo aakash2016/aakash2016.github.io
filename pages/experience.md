@@ -1,14 +1,15 @@
 ---
-layout: default
+layout: archive
 permalink: /experience/
+author_profile: true
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 0 350px;">
-  <div style="margin-right: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: -30px">
+  <!-- <div style="margin-right: 40px;">
     <img src="/assets/images/cred.jpeg" alt="CRED" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1; font-size: 14px; color: #212f3c;">
-    <h2 style="color: #1e3a8a; font-size: 24px;">Data Scientist @CRED, Bengaluru, India</h2>
+  </div> -->
+  <div style="flex: 1; font-size: 14px; color: #212f3c; font-family: 'Times New Roman', Times, serif;">
+    <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">Data Scientist @CRED, Bengaluru, India</h2>
     
     <ul style="text-align: justify;">
       <li><strong style="color: black"> Reward allocators</strong>: Developed scalable microservices for intelligent reward allocation in UPI payments, exposed via REST APIs on the cloud, which deliver an engaging experience to millions of users daily across over 60Mn monthly UPI transactions on the app.</li>
@@ -21,12 +22,12 @@ permalink: /experience/
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 0 350px;">
-  <div style="margin-right: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: -30px">
+  <!-- <div style="margin-right: 40px;">
     <img src="/assets/images/cult.jpeg" alt="Cult" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1; font-size: 14px; color: #212f3c;">
-    <h2 style="color: #1e3a8a; font-size: 24px;">Data Scientist @Cult.fit, Bengaluru, India</h2>
+  </div> -->
+  <div style="flex: 1; font-size: 14px; color: #212f3c; font-family: 'Times New Roman', Times, serif;">
+    <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">Data Scientist @Cult.fit, Bengaluru, India</h2>
 
     <ul style="text-align: justify;">
       <li><strong style="color: black">Exercise Rep Counting</strong>: Worked on an end-to-end vision-based exercise rep counter system used in smart mirror device used in Cult gym’s via a separate app. The system supports rep counting for over 100 exercises.</li>
@@ -40,12 +41,12 @@ permalink: /experience/
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 0 350px;">
-  <div style="margin-right: 40px;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: -30px">
+  <!-- <div style="margin-right: 40px;">
     <img src="/assets/images/wis.jpg" alt="WIS" style="width: 200px; height: auto;">
-  </div>
-  <div style="flex: 1; font-size: 14px; color: #212f3c;">
-    <h2 style="color: #1e3a8a; font-size: 24px;">Summer Intern @Weizmann Institute of Science, Israel</h2>
+  </div> -->
+  <div style="flex: 1; font-size: 14px; color: #212f3c; font-family: 'Times New Roman', Times, serif;">
+    <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">Summer Intern @Weizmann Institute of Science, Israel</h2>
     <p><strong style="color: black; font-size: 16px;">Automation of Biomedical Image Analysis. Supervisor: Dr. Ori Avinoam.</strong></p>
 
     <ul style="text-align: justify;">

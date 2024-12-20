@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: archive
 permalink: /publications/
+author_profile: true
 ---
 
 <!-- Publications Section -->
-<div style="display: flex; justify-content: center; align-items: center; padding: 0 350px; margin-top: 70px; text-align: justify;">
-    <ul style="font-size: 16px; color: #212f3c; line-height: 1.6;">
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 10px; text-align: justify;">
+    <ul style="font-size: 16px; color: #212f3c; line-height: 1.6; font-family: 'Times New Roman', Times, serif;">
         <li>
         <strong>Aakash Agrawal, Ayon Ganguly, Debanjan Mitra:</strong> 
         A Model for Censored Reliability Data with Two Dependent Failure Modes and Prediction of Future Failures. 

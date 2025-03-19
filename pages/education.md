@@ -21,6 +21,16 @@ author_profile: true
       <li>ECE 225A - <a href="/reflections/ece225a/" style="text-decoration: none; color: #3498db;">Prob & Stats for Data Science</a></li>
       <li>DSC 260 - <a href="/reflections/dsc260/" style="text-decoration: none; color: #3498db;">Data Science Ethics & Society</a></li>
     </ul>
+    <p style="color: black;">
+      <strong>Courses</strong> (Winter'24) - 
+      <!-- <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a> -->
+    </p>
+    <ul>
+      <li>CSE 234 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Data Systems for ML</a></li>
+      <li>CSE 257 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Search and Optimization</a></li>
+      <li>DSC 206 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Advanced Algorithms</a></li>
+      <li>DSC 240 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Machine Learning</a></li>
+    </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>
   </div>

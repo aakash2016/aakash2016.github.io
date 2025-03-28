@@ -6,18 +6,6 @@ author_profile: true
 
 <div style="width: 100%;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; font-family: 'Times New Roman', Times, serif;">
-      <a href="https://levelup.gitconnected.com/shadowfier-407df70c8ae8" style="text-decoration: none; color: inherit; position: relative;">
-      <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9; position: relative;">
-        <span style="position: absolute; top: -12px; right: 10px; background: linear-gradient(135deg,rgb(91, 114, 179), #2563eb); color: white; padding: 2px 10px; border-radius: 10px; font-size: 12px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 0 10px rgba(38, 97, 227, 0.7); text-shadow: 0 0 5px rgba(38, 97, 227, 0.7); transition: transform 0.3s ease;">
-          New
-        </span>
-        <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">Generating authentic product shadows using Image Processing</h3>
-        <p style="color: #ec407a; font-size: 14px; margin: 8px 0;">
-          <strong>Tags:</strong> Image Processing, Affine Transformations, OpenCV
-        </p>
-        <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, I talk about a simple yet effective and novel algorithm I developed, named <strong>Shadowfier</strong>, for generating product shadows in an image using image processing. This technique improves the visual appeal of product images by crafting high-quality shadows.</p>
-      </div>
-    </a>
     <a href="https://blog.cult.fit/posts/winning-interactivity-using-computer-vision" style="text-decoration: none; color: inherit; position: relative;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9; position: relative;">
         <span style="position: absolute; top: -12px; right: 10px; background: linear-gradient(135deg, rgb(236, 103, 103), rgb(188, 127, 86)); color: white; padding: 2px 10px; border-radius: 10px; font-size: 12px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 0 10px rgba(227, 73, 38, 0.7); text-shadow: 0 0 5px rgba(38, 97, 227, 0.7); transition: transform 0.3s ease;">
@@ -36,6 +24,18 @@ author_profile: true
         <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">The Why and the How of Deep Metric Learning</h3>
         <p style="color: #ec407a; font-size: 14px; margin: 8px 0;"><strong>Tags:</strong> deep Learning, mathematics, algorithm, metrics</p>
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">This article provides insights into the very basics of Deep Metric learning methods and how it helps in achieving state-of-the-art results for tasks like face verification and face recognition. Besides Face Recognition, Verification there are a number of other applications where Deep Metric Learning has proven to be quite effective.</p>
+      </div>
+    </a>
+    <a href="https://levelup.gitconnected.com/shadowfier-407df70c8ae8" style="text-decoration: none; color: inherit; position: relative;">
+      <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9; position: relative;">
+        <!-- <span style="position: absolute; top: -12px; right: 10px; background: linear-gradient(135deg,rgb(91, 114, 179), #2563eb); color: white; padding: 2px 10px; border-radius: 10px; font-size: 12px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 0 10px rgba(38, 97, 227, 0.7); text-shadow: 0 0 5px rgba(38, 97, 227, 0.7); transition: transform 0.3s ease;">
+          New
+        </span> -->
+        <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">Generating authentic product shadows using Image Processing</h3>
+        <p style="color: #ec407a; font-size: 14px; margin: 8px 0;">
+          <strong>Tags:</strong> Image Processing, Affine Transformations, OpenCV
+        </p>
+        <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, I talk about a simple yet effective and novel algorithm I developed, named <strong>Shadowfier</strong>, for generating product shadows in an image using image processing. This technique improves the visual appeal of product images by crafting high-quality shadows.</p>
       </div>
     </a>
     <a href="https://towardsdatascience.com/constrained-optimization-demystified-with-implementation-in-python-235639546fa9" style="text-decoration: none; color: inherit;">

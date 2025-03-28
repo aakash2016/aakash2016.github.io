@@ -22,12 +22,12 @@ author_profile: true
       <li>DSC 260 - <a href="/reflections/dsc260/" style="text-decoration: none; color: #3498db;">Data Science Ethics & Society</a></li>
     </ul>
     <p style="color: black;">
-      <strong>Courses</strong> (Winter'24) - 
+      <strong>Courses</strong> (Winter'25) - 
       <!-- <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a> -->
     </p>
     <ul>
       <li>CSE 234 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Data Systems for ML</a></li>
-      <li>CSE 257 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Search and Optimization</a></li>
+      <li>CSE 257 - <a href="/reflections/cse257/" style="text-decoration: none; color: #3498db;">Search and Optimization</a></li>
       <li>DSC 206 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Advanced Algorithms</a></li>
       <li>DSC 240 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Machine Learning</a></li>
     </ul>

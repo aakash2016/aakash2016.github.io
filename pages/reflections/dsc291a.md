@@ -30,7 +30,7 @@ author_profile: true
         <li><strong>The myth of the interpretability-performance tradeoff</strong>: Contrary to common belief, the tradeoff between interpretability and performance is often overstated.</li>
         <li><strong>Post-hoc explanation limitations</strong>: Post-hoc methods rely heavily on approximations, making it crucial to evaluate their reliability critically.</li>
       </ul>
-      <strong>Project Work</strong>: For the project, I presented new developments in inherently interpretable models, focusing on <a href="https://arxiv.org/abs/2007.04612" style="color: #3498db;"><strong>Concept Bottleneck Models (CBMs)</strong></a> and writing a critical peer review for the paper.<br><br>
+      <strong>Project Work</strong>: For the project, I presented new developments in inherently interpretable models, focusing on <a href="https://arxiv.org/abs/2007.04612" style="color: #3498db;"><strong>Concept Bottleneck Models (CBMs)</strong></a> and writing a critical peer review for the paper -- <a href="https://docs.google.com/document/d/1k_EVNnMk2yJz71ho4eRAa0D9hEiMyJSFxrUInfT_8cA/edit?usp=sharing" style="color: #3498db;"><strong>Critical Review</strong></a>.<br><br>
       Although this course was time-intensive, it was incredibly rewarding. I enjoyed exploring the breadth of IML and XML, and I’m confident the ideas and concepts I learned will prove invaluable when applying machine learning in practice.
     </p>
     <p style="font-size: 14px; color: #ec407a;">Fall 2024</p>

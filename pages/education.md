@@ -26,10 +26,17 @@ author_profile: true
       <!-- <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a> -->
     </p>
     <ul>
-      <li>CSE 234 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Data Systems for ML</a></li>
+      <li>CSE 234 - <a href="/reflections/cse234/" style="text-decoration: none; color: #3498db;">Data Systems for ML</a></li>
       <li>CSE 257 - <a href="/reflections/cse257/" style="text-decoration: none; color: #3498db;">Search and Optimization</a></li>
-      <li>DSC 206 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Advanced Algorithms</a></li>
-      <li>DSC 240 - <a href="/reflections/" style="text-decoration: none; color: #3498db;">Machine Learning</a></li>
+      <li>DSC 206 - <a href="/reflections/dsc206/" style="text-decoration: none; color: #3498db;">Algorithms for DS</a></li>
+      <li>DSC 240 - <a href="/reflections/dsc240/" style="text-decoration: none; color: #3498db;">Machine Learning</a></li>
+    </ul>
+    <p style="color: black;">
+      <strong>Courses</strong> (Spring'25) - 
+    </p>
+    <ul>
+      <li>DSC 241 - Statistical Models</li>
+      <li>DSC 291 - Causal Discovery & Related ML</li>
     </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>

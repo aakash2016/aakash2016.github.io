@@ -36,7 +36,8 @@ author_profile: true
     </p>
     <ul>
       <li>DSC 241 - Statistical Models</li>
-      <li>DSC 291 - Causal Discovery & Related ML</li>
+      <li>CSE 255 - Data Mining & Analytics</li>
+      <li>CSE 291 - Medical Image Computing</li>
     </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>

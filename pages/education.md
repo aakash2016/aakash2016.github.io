@@ -35,10 +35,9 @@ author_profile: true
       <strong>Courses</strong> (Spring'25) - 
     </p>
     <ul>
-      <li>CSE 253 - ML for Music</li>
-      <li>DSC 241 - Statistical Models</li>
-      <li>CSE 255 - Data Mining & Analytics</li>
-      <!-- <li>ECE 208 - Evolutionary Computing</li> -->
+      <li>CSE 253R - <a href="/reflections/cse253R/" style="text-decoration: none; color: #3498db;">ML for Music</a></li>
+      <li>CSE 255 - <a href="/reflections/cse255/" style="text-decoration: none; color: #3498db;">Data Mining & Analytics</a></li>
+      <li>DSC 241 - <a href="/reflections/dsc241/" style="text-decoration: none; color: #3498db;">Statistical Models</a></li>
     </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>

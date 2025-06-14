@@ -30,8 +30,8 @@ author_profile: true
       For Assignment 2, we were tasked with generating high-quality music. I worked on unconditioned symbolic music generation. I used a simple <strong>GAN architecture</strong> to produce the following symbolic music piece (converted to mp3 from midi):<br><br>
 
       <div style="text-align: center;">
-        <audio controls>
-          <source src="assets/audio/wgan_sample.mp3" type="audio/mpeg">
+        <audio controls preload="metadata" style="max-width: 100%;">
+          <source src="/assets/audio/wgan_sample.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
         </audio>
       </div>

@@ -36,7 +36,7 @@ author_profile: true
     </p>
     <ul>
       <li>CSE 253R - <a href="/reflections/cse253R/" style="text-decoration: none; color: #3498db;">ML for Music</a></li>
-      <li>CSE 255 - Data Mining & Analytics</li>
+      <li>CSE 255 - <a href="/reflections/cse255/" style="text-decoration: none; color: #3498db;">Data Mining & Analytics</a></li>
       <li>DSC 241 - Statistical Models</li>
     </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>

@@ -16,7 +16,7 @@ author_profile: true
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, We explain some of the ways how Computer Vision is being used at cult.fit to make workouts and user experience fun and interactive.</p>
       </div>
     </a>
-    <a href="https://towardsdatascience.com/the-why-and-the-how-of-deep-metric-learning-e70e16e199c0" style="text-decoration: none; color: inherit; position: relative;">
+    <a href="https://medium.com/data-science/the-why-and-the-how-of-deep-metric-learning-e70e16e199c0" style="text-decoration: none; color: inherit; position: relative;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9; position: relative;">
         <span style="position: absolute; top: -12px; right: 10px; background: linear-gradient(135deg, rgb(236, 103, 103), rgb(188, 127, 86)); color: white; padding: 2px 10px; border-radius: 10px; font-size: 12px; font-weight: bold; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 0 10px rgba(227, 73, 38, 0.7); text-shadow: 0 0 5px rgba(38, 97, 227, 0.7); transition: transform 0.3s ease;">
           Popular
@@ -38,7 +38,7 @@ author_profile: true
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, I talk about a simple yet effective and novel algorithm I developed, named <strong>Shadowfier</strong>, for generating product shadows in an image using image processing. This technique improves the visual appeal of product images by crafting high-quality shadows.</p>
       </div>
     </a>
-    <a href="https://towardsdatascience.com/constrained-optimization-demystified-with-implementation-in-python-235639546fa9" style="text-decoration: none; color: inherit;">
+    <a href="https://medium.com/data-science/constrained-optimization-demystified-with-implementation-in-python-235639546fa9" style="text-decoration: none; color: inherit;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9;">
         <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">Constrained Optimization demystified</h3>
         <p style="color: #ec407a; font-size: 14px; margin: 8px 0;"><strong>Tags:</strong> optimization, mathematics, algorithm</p>
@@ -52,7 +52,7 @@ author_profile: true
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, I try to explain my exploration of different vision-based repetition counting techniques and discuss their pros and cons. Specifically, I highlight five major ways in which computer vision has been employed for rep counting.</p>
       </div>
     </a>
-    <a href="https://towardsdatascience.com/towards-a-more-applicative-pose-estimation-bf18bc311228" style="text-decoration: none; color: inherit;">
+    <a href="https://medium.com/data-science/towards-a-more-applicative-pose-estimation-bf18bc311228" style="text-decoration: none; color: inherit;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9;">
         <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">Towards a more applicative Pose Estimation</h3>
         <p style="color: #ec407a; font-size: 14px; margin: 8px 0;"><strong>Tags:</strong> computer-vision, pose-estimation, low-pass-filter</p>
@@ -66,21 +66,21 @@ author_profile: true
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this blog post, I discuss a very new and unique approach for building a real-time exercise rep counter, one that employs signal processing ideas on top of pose estimation. This approach can be easily adapted to build rep-counters for other classes.</p>
       </div>
     </a>
-    <a href="https://towardsdatascience.com/color-swapping-techniques-in-image-processing-fe594b3ca31a" style="text-decoration: none; color: inherit;">
+    <a href="https://medium.com/data-science/color-swapping-techniques-in-image-processing-fe594b3ca31a" style="text-decoration: none; color: inherit;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9;">
         <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">Color Swapping techniques in Image Processing</h3>
         <p style="color: #ec407a; font-size: 14px; margin: 8px 0;"><strong>Tags:</strong> image-processing, color-spaces, algorithm</p>
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, I try to explain my exploration of why there can be a need to swap colors in images and how we can use simple image processing methods to smartly swap colors in an image by implementing the same in Python.</p>
       </div>
     </a>
-    <a href="https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76" style="text-decoration: none; color: inherit;">
+    <a href="https://medium.com/data-science/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76" style="text-decoration: none; color: inherit;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9;">
         <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">Understanding the crux of objects and classes in python</h3>
         <p style="color: #ec407a; font-size: 14px; margin: 8px 0;"><strong>Tags:</strong> OOPs, inheritance, python</p>
         <p style="font-size: 14px; color: #212f3c; text-align: justify; margin: 0px 0;">In this article, I try to explain the essentials of Object-Oriented Programming in my own understanding via a conversation that took place between me and my friend Nitin.</p>
       </div>
     </a>
-        <a href="https://towardsdatascience.com/14-probability-problems-for-acing-data-science-interviews-3735025a6425" style="text-decoration: none; color: inherit;">
+        <a href="https://medium.com/data-science/14-probability-problems-for-acing-data-science-interviews-3735025a6425" style="text-decoration: none; color: inherit;">
       <div style="border: 1px solid #ccc; border-radius: 10px; width: 100%; max-width: 600px; padding: 20px; background-color: #f9f9f9;">
         <h3 style="color: #1e3a8a; font-size: 20px; margin: 0;">14 Probability problems for acing Data Science interviews</h3>
         <p style="color: #ec407a; font-size: 14px; margin: 8px 0;"><strong>Tags:</strong> probability, statistics, interviews, data science</p>

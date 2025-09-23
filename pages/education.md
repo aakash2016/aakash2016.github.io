@@ -11,6 +11,7 @@ author_profile: true
   <div style="flex: 1; font-size: 14px; color: #212f3c;">
     <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">University of California San Diego</h2>
     <p><strong style="color: #1e3a8a; font-size: 16px;">MS: Data Science</strong></p>
+    <p><strong style="color: black;">Graduate Teaching Assistant</strong>: CSE103 (Practical Intro to Prob/Stats)</p>
     <p style="color: black;">
       <strong>Courses</strong> (Fall'24) - 
       <!-- <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a> -->
@@ -37,7 +38,7 @@ author_profile: true
     <ul>
       <li>CSE 253R - <a href="/reflections/cse253R/" style="text-decoration: none; color: #3498db;">ML for Music</a></li>
       <li>CSE 255 - <a href="/reflections/cse255/" style="text-decoration: none; color: #3498db;">Data Mining & Analytics</a></li>
-      <li>DSC 241 - Statistical Models</li>
+      <li>DSC 241 - <a href="/reflections/dsc241/" style="text-decoration: none; color: #3498db;">Statistical Models</a></li>
     </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>

@@ -40,6 +40,15 @@ author_profile: true
       <li>CSE 255 - <a href="/reflections/cse255/" style="text-decoration: none; color: #3498db;">Data Mining & Analytics</a></li>
       <li>DSC 241 - <a href="/reflections/dsc241/" style="text-decoration: none; color: #3498db;">Statistical Models</a></li>
     </ul>
+    <p style="color: black;">
+      <strong>Courses</strong> (Fall'25) - 
+    </p>
+    <ul>
+      <li>MAE 148 - <a href="https://ucsd-ecemae-148.github.io/course-documentation/" style="text-decoration: none; color: #3498db;">Intro to Autonomous Vehicles</a></li>
+      <li>CSE 500 - Teaching Assistantship</li>
+      <li>CSE 599 - Teaching Methods - CSE</li>
+      <li>CSE 293 - Special Project - CSE</li>
+    </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>
   </div>

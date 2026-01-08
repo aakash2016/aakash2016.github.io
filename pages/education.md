@@ -11,7 +11,13 @@ author_profile: true
   <div style="flex: 1; font-size: 14px; color: #212f3c;">
     <h2 style="color: #1e3a8a; font-size: 24px; font-family: 'Times New Roman', Times, serif;">University of California San Diego</h2>
     <p><strong style="color: #1e3a8a; font-size: 16px;">MS: Data Science</strong></p>
-    <p><strong style="color: black;">Graduate Teaching Assistant</strong>: CSE103 (Practical Intro to Prob/Stats)</p>
+    <p style="color: black;">
+      <strong>Graduate Teaching Assistant</strong>:
+    </p>
+    <ul>
+      <li>CSE103 - Practical Intro to Prob/Stats</li>
+      <li>DSC291 - Big Data Analytics using Spark</li>
+    </ul>
     <p style="color: black;">
       <strong>Courses</strong> (Fall'24) - 
       <!-- <a href="/reflections" style="text-decoration: none; color: #3498db;">Course Reflections</a> -->
@@ -44,10 +50,9 @@ author_profile: true
       <strong>Courses</strong> (Fall'25) - 
     </p>
     <ul>
-      <li>MAE 148 - <a href="https://ucsd-ecemae-148.github.io/course-documentation/" style="text-decoration: none; color: #3498db;">Intro to Autonomous Vehicles</a></li>
+      <li>MAE 148 - Intro to Autonomous Vehicles</li>
       <li>CSE 500 - Teaching Assistantship</li>
       <li>CSE 599 - Teaching Methods - CSE</li>
-      <li>CSE 293 - Special Project - CSE</li>
     </ul>
     <p style="font-size: 14px; color: black;"><strong>Grade:</strong> 4.0 / 4.0</p>
     <p style="font-size: 14px; color: #ec407a;">Sept 2024 - present</p>

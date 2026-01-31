@@ -50,7 +50,7 @@ author_profile: true
       <strong>Courses</strong> (Fall'25) - 
     </p>
     <ul>
-      <li>MAE 148 - Intro to Autonomous Vehicles</li>
+      <li>ECE/MAE 148 - <a href="/reflections/ece148/" style="text-decoration: none; color: #3498db;">Intro to Autonomous Vehicles</a></li>
       <li>CSE 500 - Teaching Assistantship</li>
       <li>CSE 599 - Teaching Methods - CSE</li>
     </ul>
